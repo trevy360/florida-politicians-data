@@ -1,0 +1,962 @@
+[
+  {
+    "name": "Shane G Abbott",
+    "party": "Republican",
+    "district": "5",
+    "email": "Shane.Abbott@FLHouse.gov",
+    "phone": "(850)717-5005",
+    "office_address": "200 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Jon Albert",
+    "party": "Republican",
+    "district": "48",
+    "email": "Jon.Albert@FLHouse.gov",
+    "phone": "(850)717-5048",
+    "office_address": "1301 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Jose Alvarez",
+    "party": "Democrat",
+    "district": "46",
+    "email": "Jose.Alvarez@FLHouse.gov",
+    "phone": "(850)717-5046",
+    "office_address": "1402 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Daniel Antonio Alvarez",
+    "party": "Republican",
+    "district": "69",
+    "email": "Danny.Alvarez@FLHouse.gov",
+    "phone": "(850)717-5069",
+    "office_address": "412 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Adam Anderson",
+    "party": "Republican",
+    "district": "57",
+    "email": "Adam.Anderson@FLHouse.gov",
+    "phone": "(850)717-5057",
+    "office_address": "209 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Robert Alexander Andrade",
+    "party": "Republican",
+    "district": "2",
+    "email": "Alex.Andrade@FLHouse.gov",
+    "phone": "(850)717-5002",
+    "office_address": "214 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Bruce Hadley Antone",
+    "party": "Democrat",
+    "district": "41",
+    "email": "Bruce.Antone@FLHouse.gov",
+    "phone": "(850)717-5041",
+    "office_address": "1101 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Wallace Aristide",
+    "party": "Democrat",
+    "district": "107",
+    "email": "Wallace.Aristide@FLHouse.gov",
+    "phone": "(850)717-5107",
+    "office_address": "1402 The Capital, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Jessica Baker",
+    "party": "Republican",
+    "district": "17",
+    "email": "Jessica.Baker@FLHouse.gov",
+    "phone": "(850)717-5017",
+    "office_address": "200 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Douglas Michael Bankson",
+    "party": "Republican",
+    "district": "39",
+    "email": "Doug.Bankson@FLHouse.gov",
+    "phone": "(850)717-5039",
+    "office_address": "200 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Webster Barnaby",
+    "party": "Republican",
+    "district": "29",
+    "email": "Webster.Barnaby@FLHouse.gov",
+    "phone": "(850)717-5029",
+    "office_address": "317 The Capital, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Robin Bartleman",
+    "party": "Democrat",
+    "district": "103",
+    "email": "Robin.Bartleman@FLHouse.gov",
+    "phone": "(850)717-5103",
+    "office_address": "407 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Fabián Basabe",
+    "party": "Republican",
+    "district": "106",
+    "email": "Fabian.Basabe@FLHouse.gov",
+    "phone": "(850)717-5106",
+    "office_address": "200 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Yvette Benarroch",
+    "party": "Republican",
+    "district": "81",
+    "email": "Yvette.Benarroch@FLHouse.gov",
+    "phone": "(850)717-5081",
+    "office_address": "1401 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Kimberly Berfield",
+    "party": "Republican",
+    "district": "58",
+    "email": "Kim.Berfield@FLHouse.gov",
+    "phone": "(850)717-5058",
+    "office_address": "313 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Dean Black",
+    "party": "Republican",
+    "district": "15",
+    "email": "Dean.Black@FLHouse.gov",
+    "phone": "(850)717-5015",
+    "office_address": "402 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Omar Blanco",
+    "party": "Republican",
+    "district": "115",
+    "email": "Omar.Blanco@FLHouse.gov",
+    "phone": "(850)717-5115",
+    "office_address": "1302 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Erika Booth",
+    "party": "Republican",
+    "district": "35",
+    "email": "Erika.Booth@FLHouse.gov",
+    "phone": "(850)717-5035",
+    "office_address": "1301 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "David Borrero",
+    "party": "Republican",
+    "district": "111",
+    "email": "David.Borrero@FLHouse.gov",
+    "phone": "(850)717-5111",
+    "office_address": "412 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Adam Botana",
+    "party": "Republican",
+    "district": "80",
+    "email": "Adam.Botana@FLHouse.gov",
+    "phone": "(850)717-5080",
+    "office_address": "303 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Robert A. Brackett",
+    "party": "Republican",
+    "district": "34",
+    "email": "Robert.Brackett@FLHouse.gov",
+    "phone": "(850)717-5034",
+    "office_address": "209 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "LaVon Bracy Davis",
+    "party": "Democrat",
+    "district": "40",
+    "email": "LaVon.BracyDavis@FLHouse.gov",
+    "phone": "(850)717-5040",
+    "office_address": "1101 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Robert Charles Brannan III",
+    "party": "Republican",
+    "district": "10",
+    "email": "Chuck.Brannan@FLHouse.gov",
+    "phone": "(850)717-5010",
+    "office_address": "317 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": " James Buchanan",
+    "party": "Republican",
+    "district": "74",
+    "email": "James.Buchanan@FLHouse.gov",
+    "phone": "(850)717-5074",
+    "office_address": "418 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Demi Busatta",
+    "party": "Republican",
+    "district": "114",
+    "email": "Demi.Busatta@FLHouse.gov",
+    "phone": "(850)717-5114",
+    "office_address": "222 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Daryl Campbell",
+    "party": "Democrat",
+    "district": "99",
+    "email": "Daryl.Campbell@FLHouse.gov",
+    "phone": "(850)717-5099",
+    "office_address": "1102 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Jennifer Canady",
+    "party": "Republican",
+    "district": "50",
+    "email": "Jennifer.Canady@FLHouse.gov",
+    "phone": "(850)717-5050",
+    "office_address": "418 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Michael A. Caruso",
+    "party": "Republican",
+    "district": "87",
+    "email": "Mike.Caruso@FLHouse.gov",
+    "phone": "(850)717-5087",
+    "office_address": "300 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Joe Casello",
+    "party": "Democrat",
+    "district": "90",
+    "email": "Joe.Casello@FLHouse.gov",
+    "phone": "(850)717-5090",
+    "office_address": "403 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Hillary Cassel",
+    "party": "Republican",
+    "district": "101",
+    "email": "Hillary.Cassel@FLHouse.gov",
+    "phone": "(850)717-5101",
+    "office_address": "212 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": " Ryan Chamberlin",
+    "party": "Republican",
+    "district": "24",
+    "email": "Ryan.Chamberlin@FLHouse.gov",
+    "phone": "(850)717-5024",
+    "office_address": "1401 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Kevin D. Chambliss",
+    "party": "Democrat",
+    "district": "117",
+    "email": "Kevin.Chambliss@FLHouse.gov",
+    "phone": "(850)717-5117",
+    "office_address": "407 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Linda Chaney",
+    "party": "Republican",
+    "district": "61",
+    "email": "Linda.Chaney@FLHouse.gov",
+    "phone": "(850)717-5061",
+    "office_address": "303 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Nan Cobb",
+    "party": "Republican",
+    "district": "26",
+    "email": "Nan.Cobb@FLHouse.gov",
+    "phone": "(850)717-5026",
+    "office_address": "1401 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "William Conerly",
+    "party": "Republican",
+    "district": "72",
+    "email": "Bill.Conerly@FLHouse.gov",
+    "phone": "(850)717-5072",
+    "office_address": "1401 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Lindsay Cross",
+    "party": "Democrat",
+    "district": "60",
+    "email": "Lindsay.Cross@FLHouse.gov",
+    "phone": "(850)717-5060",
+    "office_address": "1101 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Dan Daley",
+    "party": "Democrat",
+    "district": "96",
+    "email": "Dan.Daley@FLHouse.gov",
+    "phone": "(850)717-5096",
+    "office_address": "407 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Kimberly Daniels",
+    "party": "Democrat",
+    "district": "14",
+    "email": "Kimberly.Daniels@FLHouse.gov",
+    "phone": "(850)717-5014",
+    "office_address": "400 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Fentrice Driskell",
+    "party": "Democrat, Minority Leader",
+    "district": "67",
+    "email": "Fentrice.Driskell@FLHouse.gov",
+    "phone": "(850)717-5067",
+    "office_address": "316 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Wyman Duggan",
+    "party": "Republican Speaker Pro Tempore",
+    "district": "12",
+    "email": "Wyman.Duggan@FLHouse.gov",
+    "phone": "(850)717-5012",
+    "office_address": "422 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Lisa Dunkley",
+    "party": "Democrat",
+    "district": "97",
+    "email": "Lisa.Dunkley@FLHouse.gov",
+    "phone": "(850)717-5097",
+    "office_address": "1003 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Jervonte 'Tae' Edmonds",
+    "party": "Democrat",
+    "district": "88",
+    "email": "Jervonte.Edmonds@FLHouse.gov",
+    "phone": "(850)717-5088",
+    "office_address": "1101 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Dr. Anna V. Eskamani",
+    "party": "Democrat",
+    "district": "42",
+    "email": "Anna.Eskamani@FLHouse.gov",
+    "phone": "(850)717-5042",
+    "office_address": "407 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Tiffany Esposito",
+    "party": "Republican",
+    "district": "77",
+    "email": "Tiffany.Esposito@FLHouse.gov",
+    "phone": "(850)717-5077",
+    "office_address": "222 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Tom Fabricio",
+    "party": "Republican",
+    "district": "110",
+    "email": "Tom.Fabricio@FLHouse.gov",
+    "phone": "(850)717-5110",
+    "office_address": "319 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Gallop Franklin II",
+    "party": "Democrat",
+    "district": "8",
+    "email": "Gallop.Franklin@FLHouse.gov",
+    "phone": "(850)717-5008",
+    "office_address": "1003 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Ashley Viola Gantt",
+    "party": "Democrat",
+    "district": "109",
+    "email": "Ashley.Gantt@FLHouse.gov",
+    "phone": "(850)717-5109",
+    "office_address": "1101 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Sam Garrison",
+    "party": "Republican",
+    "district": "11",
+    "email": "Sam.Garrison@FLHouse.gov",
+    "phone": "(850)717-5011",
+    "office_address": "422 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Richard Gentry",
+    "party": "Republican",
+    "district": "27",
+    "email": "Richard.Gentry@FLHouse.gov",
+    "phone": "(850)717-5027",
+    "office_address": "1302 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Anne Gerwig",
+    "party": "Republican",
+    "district": "93",
+    "email": "Anne.Gerwig@FLHouse.gov",
+    "phone": "(850)717-5093",
+    "office_address": "1301 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Mike Giallombardo",
+    "party": "Republican",
+    "district": "79",
+    "email": "Mike.Giallombardo@FLHouse.gov",
+    "phone": "(850)717-5079",
+    "office_address": "214 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Karen Gonzalez Pittman",
+    "party": "Republican",
+    "district": "65",
+    "email": "Karen.Pittman@FLHouse.gov",
+    "phone": "(850)717-5065",
+    "office_address": "212 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Peggy Gossett-Seidman",
+    "party": "Republican",
+    "district": "91",
+    "email": "Peggy.GossettSeidman@FLHouse.gov",
+    "phone": "(850)717-5091",
+    "office_address": "212 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Michael 'Mike' Gottlieb",
+    "party": "Democrat",
+    "district": "102",
+    "email": "Michael.Gottlieb@FLHouse.gov",
+    "phone": "(850)717-5102",
+    "office_address": "403 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Sam Greco",
+    "party": "Republican",
+    "district": "19",
+    "email": "Sam.Greco@FLHouse.gov",
+    "phone": "(850)717-5019",
+    "office_address": "1401 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Philip Wayne 'Griff' Griffitts Jr",
+    "party": "Republican",
+    "district": "6",
+    "email": "Griff.Griffitts@FLHouse.gov",
+    "phone": "(850)717-5006",
+    "office_address": "303 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "J.J. Grow",
+    "party": "Republican",
+    "district": "23",
+    "email": "JJ.Grow@FLHouse.gov",
+    "phone": "(850)717-5023",
+    "office_address": "1302 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Jennifer 'Rita' Harris",
+    "party": "Democrat",
+    "district": "44",
+    "email": "Rita.Harris@FLHouse.gov",
+    "phone": "(850)717-5044",
+    "office_address": "1102 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Dianne 'Ms Dee' Hart",
+    "party": "Democrat",
+    "district": "63",
+    "email": "Dianne.Hart@FLHouse.gov",
+    "phone": "(850)717-5063",
+    "office_address": "403 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Yvonne Hayes Hinson",
+    "party": "Democrat",
+    "district": "21",
+    "email": "Yvonne.Hinson@FLHouse.gov",
+    "phone": "(850)717-5021",
+    "office_address": "1102 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Jeff Holcomb",
+    "party": "Republican",
+    "district": "53",
+    "email": "Jeff.Holcomb@FLHouse.gov",
+    "phone": "(850)717-5053",
+    "office_address": "315 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Christine Hunschofsky",
+    "party": "Democrat, Minority Leader, pro tempore",
+    "district": "95",
+    "email": "C.Hunschofsky@FLHouse.gov",
+    "phone": "(850)717-5095",
+    "office_address": "329 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Berny Jacques",
+    "party": "Republican",
+    "district": "59",
+    "email": "Berny.Jacques@FLHouse.gov",
+    "phone": "(850)717-5059",
+    "office_address": "313 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Chad Johnson",
+    "party": "Republican",
+    "district": "22",
+    "email": "Chad.Johnson@FLHouse.gov",
+    "phone": "(850)717-5022",
+    "office_address": "1302 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Dotie Joseph",
+    "party": "Democrat",
+    "district": "108",
+    "email": "Dotie.Joseph@FLHouse.gov",
+    "phone": "(850)717-5108",
+    "office_address": "407 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Kim Kendall",
+    "party": "Republican",
+    "district": "18",
+    "email": "Kim.Kendall@FLHouse.gov",
+    "phone": "(850)717-5018",
+    "office_address": "1301 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Jennifer Kincart Jonsson",
+    "party": "Republican",
+    "district": "49",
+    "email": "Jennifer.Jonsson@FLHouse.gov",
+    "phone": "(850)717-5049",
+    "office_address": "1302 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Traci Koster",
+    "party": "Republican",
+    "district": "66",
+    "email": "Traci.Koster@FLHouse.gov",
+    "phone": "(850)717-5066",
+    "office_address": "412 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Chip LaMarca",
+    "party": "Republican",
+    "district": "100",
+    "email": "Chip.LaMarca@FLHouse.gov",
+    "phone": "(850)717-5100",
+    "office_address": "214 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Johanna López",
+    "party": "Democrat",
+    "district": "43",
+    "email": "Johanna.Lopez@FLHouse.gov",
+    "phone": "(850)717-5043",
+    "office_address": "1101 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Vicki L. Lopez",
+    "party": "Republican",
+    "district": "113",
+    "email": "Vicki.Lopez@FLHouse.gov",
+    "phone": "(850)717-5113",
+    "office_address": "222 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Randall Scott 'Randy' Maggard",
+    "party": "Republican",
+    "district": "54",
+    "email": "Randy.Maggard@FLHouse.gov",
+    "phone": "(850)717-5054",
+    "office_address": "322 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Patt Maney",
+    "party": "Republican",
+    "district": "4",
+    "email": "Patt.Maney@FLHouse.gov",
+    "phone": "(850)717-5004",
+    "office_address": "222 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Debbie Mayfield",
+    "party": "Republican",
+    "district": "32",
+    "email": "Debbie.Mayfield@FLHouse.gov",
+    "phone": "(850)717-5032",
+    "office_address": "1401 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Lawrence McClure",
+    "party": "Republican",
+    "district": "68",
+    "email": "lawrence.McClure@FLHouse.gov",
+    "phone": "(850)717-5068",
+    "office_address": "418 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Fiona McFarland",
+    "party": "Republican",
+    "district": "73",
+    "email": "Fiona.McFarland@FLHouse.gov",
+    "phone": "(850)717-5073",
+    "office_address": "313 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Lauren Melo",
+    "party": "Republican",
+    "district": "82",
+    "email": "Lauren.Melo@FLHouse.gov",
+    "phone": "(850)717-5082",
+    "office_address": "209 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Kiyan Michael",
+    "party": "Republican",
+    "district": "16",
+    "email": "Kiyan.Michael@FLHouse.gov",
+    "phone": "(850)717-5016",
+    "office_address": "300 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Monique Miller",
+    "party": "Republican",
+    "district": "33",
+    "email": "Monique.Miller@FLHouse.gov",
+    "phone": "(850)717-5033",
+    "office_address": "1301 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": " James Vernon 'Jim' Mooney Jr",
+    "party": "Republican",
+    "district": "120",
+    "email": "Jim.Mooney@FLHouse.gov",
+    "phone": "(850)717-5120",
+    "office_address": "334 The Capital, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Danny Nix Jr",
+    "party": "Republican",
+    "district": "75",
+    "email": "Danny.Nix@FLHouse.gov",
+    "phone": "(850)717-5075",
+    "office_address": "1301 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Angela 'Angie' Nixon",
+    "party": "Democrat",
+    "district": "13",
+    "email": "Angie.Nixon@FLHouse.gov",
+    "phone": "(850)717-5013",
+    "office_address": "1102 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Vanessa Oliver",
+    "party": "Republican",
+    "district": "76",
+    "email": "Vanessa.Oliver@FLHouse.gov",
+    "phone": "(850)717-5076",
+    "office_address": "1401 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Tobin Rogers 'Toby' Overdorf",
+    "party": "Republican",
+    "district": "85",
+    "email": "Toby.Overdorf@FLHouse.gov",
+    "phone": "(850)717-5085",
+    "office_address": "402 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Michael Owen",
+    "party": "Republican",
+    "district": "70",
+    "email": "Michael.Owen@FLHouse.gov",
+    "phone": "(850)717-5070",
+    "office_address": "1302 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Bill Partington",
+    "party": "Republican",
+    "district": "28",
+    "email": "Bill.Partington@FLHouse.gov",
+    "phone": "(850)717-5028",
+    "office_address": "1301 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Daniel Perez",
+    "party": "Republican, Speaker of the House",
+    "district": "116",
+    "email": "Daniel.Perez@FLHouse.gov",
+    "phone": "(305)348-1414",
+    "office_address": "420 The Capital, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Jenna Persons-Mulicka",
+    "party": "Republican",
+    "district": "78",
+    "email": "Jenna.Persons@FLHouse.gov",
+    "phone": "(850)717-5078",
+    "office_address": "222 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Rachel Saunders Plakon",
+    "party": "Republican",
+    "district": "36",
+    "email": "Rachel.Plakon@FLHouse.gov",
+    "phone": "(850)717-5036",
+    "office_address": "200 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Susan Plasencia",
+    "party": "Republican",
+    "district": "37",
+    "email": "Susan.Plasencia@FLHouse.gov",
+    "phone": "(850)717-5037",
+    "office_address": "334 The Capital, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Juan Carlos Porras",
+    "party": "Republican",
+    "district": "119",
+    "email": "JuanCarlos.Porras@FLHouse.gov",
+    "phone": "(850)717-5119",
+    "office_address": "334 The Capital, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Michele K. Rayner",
+    "party": "Democrat",
+    "district": "62",
+    "email": "Michele.Rayner@FLHouse.gov",
+    "phone": "(850)717-5062",
+    "office_address": "407 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Mike Redondo",
+    "party": "Republican",
+    "district": "118",
+    "email": "Mike.Redondo@FLHouse.gov",
+    "phone": "(850)717-5118",
+    "office_address": "1301 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Alex Rizo",
+    "party": "Republican",
+    "district": "112",
+    "email": "Alex.Rizo@FLHouse.gov",
+    "phone": "(850)717-5112",
+    "office_address": "303 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Felicia Simone Robinson",
+    "party": "Democrat",
+    "district": "104",
+    "email": "Felicia.Robinson@FLHouse.gov",
+    "phone": "(850)717-5104",
+    "office_address": "1003 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "William Cloud 'Will' Robinson Jr",
+    "party": "Republican",
+    "district": "71",
+    "email": "Will.Robinson@FLHouse.gov",
+    "phone": "(850)717-5071",
+    "office_address": "303 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Mitch Rosenwald",
+    "party": "Democrat",
+    "district": "98",
+    "email": "Mitch.Rosenwald@FLHouse.gov",
+    "phone": "(850)717-5098",
+    "office_address": "1402 The Capital, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Michelle Salzman",
+    "party": "Republican",
+    "district": "1",
+    "email": "Michelle.Salzman@FLHouse.gov",
+    "phone": "(850)717-5001",
+    "office_address": "214 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Judson Sapp",
+    "party": "Republican",
+    "district": "20",
+    "email": "Judson.Sapp@FLHouse.gov",
+    "phone": "(850)717-5020",
+    "office_address": "1301 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Jason Shoaf",
+    "party": "Republican",
+    "district": "7",
+    "email": "Jason.Shoaf@FLHouse.gov",
+    "phone": "(850)717-5007",
+    "office_address": "222 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Tyler I. Sirois",
+    "party": "Republican",
+    "district": "31",
+    "email": "Tyler.Sirois@FLHouse.gov",
+    "phone": "(850)717-5031",
+    "office_address": "322 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Kelly Skidmore",
+    "party": "Democrat",
+    "district": "92",
+    "email": "Kelly.Skidmore@FLHouse.gov",
+    "phone": "(850)717-5092",
+    "office_address": "316 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "David Smith",
+    "party": "Republican",
+    "district": "38",
+    "email": "David.Smith@FLHouse.gov",
+    "phone": "(850)717-5038",
+    "office_address": "402 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "John Snyder",
+    "party": "Republican",
+    "district": "86",
+    "email": "John.Snyder@FLHouse.gov",
+    "phone": "(850)717-5086",
+    "office_address": "303 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Leonard Spencer",
+    "party": "Democrat",
+    "district": "45",
+    "email": "Leonard.Spencer@FLHouse.gov",
+    "phone": "(850)717-5045",
+    "office_address": "1402 The Capital, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Paula A. Stark",
+    "party": "Republican",
+    "district": "47",
+    "email": "Paula.Stark@FLHouse.gov",
+    "phone": "(850)717-5047",
+    "office_address": "200 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Kevin M. Steele",
+    "party": "Republican",
+    "district": "55",
+    "email": "Kevin.Steele@FLHouse.gov",
+    "phone": "(850)717-5055",
+    "office_address": "315 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Allison Tant",
+    "party": "Democrat",
+    "district": "9",
+    "email": "Allison.Tant@FLHouse.gov",
+    "phone": "(850)717-5009",
+    "office_address": "329 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "John Paul Temple",
+    "party": "Republican",
+    "district": "52",
+    "email": "John.Temple@FLHouse.gov",
+    "phone": "(850)717-5052",
+    "office_address": "200 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Debra Tendrich",
+    "party": "Democrat",
+    "district": "89",
+    "email": "Debra.Tendrich@FLHouse.gov",
+    "phone": "(850)717-5089",
+    "office_address": "1402 The Capital, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Josie Tomkow",
+    "party": "Republican",
+    "district": "51",
+    "email": "Josie.Tomkow@FLHouse.gov",
+    "phone": "(850)717-5051",
+    "office_address": "418 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Dana Trabulsy",
+    "party": "Republican",
+    "district": "84",
+    "email": "Dana.Trabulsy@FLHouse.gov",
+    "phone": "(850)717-5084",
+    "office_address": "313 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Chase Tramont",
+    "party": "Republican",
+    "district": "30",
+    "email": "Chase.Tramont@FLHouse.gov",
+    "phone": "(850)717-5030",
+    "office_address": "214 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Kaylee Tuck",
+    "party": "Republican, Deputy Majority Leader",
+    "district": "83",
+    "email": "Kaylee.Tuck@FLHouse.gov",
+    "phone": "(850)717-5083",
+    "office_address": "209 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Susan L. Valdés",
+    "party": "Republican",
+    "district": "64",
+    "email": "Susan.Valdes@FLHouse.gov",
+    "phone": "(850)717-5064",
+    "office_address": "334 The Capital, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Meg Weinberger",
+    "party": "Republican",
+    "district": "94",
+    "email": "Meg.Weinberger@FLHouse.gov",
+    "phone": "(850)717-5094",
+    "office_address": "1401 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Marie Paule Woodson",
+    "party": "Democrat",
+    "district": "105",
+    "email": "Marie.Woodson@FLHouse.gov",
+    "phone": "(850)717-5105",
+    "office_address": "223 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Taylor Michael Yarkosky",
+    "party": "Republican",
+    "district": "25",
+    "email": "Taylor.Yarkosky@FLHouse.gov",
+    "phone": "(850)717-5025",
+    "office_address": "319 The Capitol, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Bradford Troy 'Brad' Yeager",
+    "party": "Republican",
+    "district": "56",
+    "email": "Brad.Yeager@FLHouse.gov",
+    "phone": "(850)717-5056",
+    "office_address": "214 House Office Building, 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  },
+  {
+    "name": "Pending Special Election District 3",
+    "party": "",
+    "district": "",
+    "email": "@FLHouse.gov",
+    "phone": "(850)717-",
+    "office_address": " 402 South Monroe Street, Tallahassee, FL 32399-1300"
+  }
+]
